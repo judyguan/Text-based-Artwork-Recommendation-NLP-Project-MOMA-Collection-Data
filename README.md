@@ -12,7 +12,7 @@ Background:
 Goal:
 To help collectors discover art more easily through the platform by suggesting RELEVANT pieces of art based on word descriptions (similar theme/topic) on artists or artworks that you have searched for or bought. 
 
-Note:Since the internal dataset is not available to the public, we will use a similar dataset of MOMA’s collection catalogue to run and test our proposed artwork recommendation system.
+Note: Since the internal dataset is not available to the public, we will use a similar dataset of MOMA’s collection catalogue to run and test our proposed artwork recommendation system.
 
 ## Part2: Data Source
 Data source: Collection - dataset by moma (https://data.world/moma/collection)
